@@ -5,6 +5,6 @@ Fine tuning of the base model from OpenAI Whisper in Russian language on the dat
 
 До обученная модель можно скачать по адресу https://disk.yandex.ru/d/ogeKhA-PfNpf9w - файл base_ru.pt . Она имеет размер 290,5 МБ , 71М параметров.
 
-Точность модели на тесте Farfield wer=21% ( для сравнения , точность стандартной "base" модели от whisperна этом тесте имеет  wer=73%). Hо новая модель забыла пунктуацию.
+Точность модели на тесте Farfield wer=21% ( для сравнения , точность стандартной "base" модели от whisper на этом тесте имеет  wer=73%). Hо новая модель забыла пунктуацию.
 
 Пример использования , можно посмотреть в ноутбуке Untitled.ipynb
