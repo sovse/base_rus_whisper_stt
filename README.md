@@ -9,3 +9,5 @@ Fine tuning of the base model from OpenAI Whisper in Russian language on the dat
 Точность модели на тесте Farfield wer=21% ( для сравнения , точность стандартной "base" модели от whisper на этом тесте имеет  wer=73%). Hо новая модель забыла пунктуацию.
 
 Пример использования , можно посмотреть в ноутбуке asr_inferens.ipynb
+
+Код обучения был адаптирован из этого учебника https://colab.research.google.com/drive/1P4ClLkPmfsaKn2tBbRp0nVjGMRKR-EWz?usp=sharing
