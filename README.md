@@ -10,4 +10,4 @@ Fine tuning of the base model from OpenAI Whisper in Russian language on the dat
 
 Пример использования , можно посмотреть в ноутбуке asr_inferens.ipynb
 
-Код обучения был адаптирован из этого учебника https://colab.research.google.com/drive/1P4ClLkPmfsaKn2tBbRp0nVjGMRKR-EWz?usp=sharing
+
